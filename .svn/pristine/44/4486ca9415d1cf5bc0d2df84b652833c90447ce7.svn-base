@@ -1,0 +1,14 @@
+F:\distributed-system\microservice-zyzs-provider-fastdfs\src\main\java\com\itmuch\cloud\study\controller\Use2Controller.java
+F:\distributed-system\microservice-zyzs-provider-fastdfs\src\main\java\com\itmuch\cloud\study\myenum\Code.java
+F:\distributed-system\microservice-zyzs-provider-fastdfs\src\main\java\com\itmuch\cloud\study\entity\ImageManager.java
+F:\distributed-system\microservice-zyzs-provider-fastdfs\src\main\java\com\itmuch\cloud\study\fastdfs\ApplicationConfig.java
+F:\distributed-system\microservice-zyzs-provider-fastdfs\src\main\java\com\itmuch\cloud\study\ProviderUserApplication.java
+F:\distributed-system\microservice-zyzs-provider-fastdfs\src\main\java\com\itmuch\cloud\study\controller\FileController.java
+F:\distributed-system\microservice-zyzs-provider-fastdfs\src\main\java\com\itmuch\cloud\study\fastdfs\FileUtil.java
+F:\distributed-system\microservice-zyzs-provider-fastdfs\src\main\java\com\itmuch\cloud\study\entity\User.java
+F:\distributed-system\microservice-zyzs-provider-fastdfs\src\main\java\com\itmuch\cloud\study\repository\ImageManagerRepository.java
+F:\distributed-system\microservice-zyzs-provider-fastdfs\src\main\java\com\itmuch\cloud\study\fastdfs\FastDFSClient.java
+F:\distributed-system\microservice-zyzs-provider-fastdfs\src\main\java\com\itmuch\cloud\study\fastdfs\HTTPUtils.java
+F:\distributed-system\microservice-zyzs-provider-fastdfs\src\main\java\com\itmuch\cloud\study\task\ImageManagerService.java
+F:\distributed-system\microservice-zyzs-provider-fastdfs\src\main\java\com\itmuch\cloud\study\repository\UserRepository.java
+F:\distributed-system\microservice-zyzs-provider-fastdfs\src\main\java\com\itmuch\cloud\study\task\HandleTask.java

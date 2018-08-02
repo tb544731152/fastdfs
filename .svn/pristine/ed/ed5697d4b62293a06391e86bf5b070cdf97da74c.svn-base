@@ -1,0 +1,15 @@
+com\itmuch\cloud\study\entity\ImageManager.class
+com\itmuch\cloud\study\fastdfs\FastDFSClient.class
+com\itmuch\cloud\study\task\HandleTask.class
+com\itmuch\cloud\study\myenum\Code.class
+com\itmuch\cloud\study\task\ImageManagerService.class
+com\itmuch\cloud\study\task\MyTask.class
+com\itmuch\cloud\study\repository\ImageManagerRepository.class
+com\itmuch\cloud\study\repository\UserRepository.class
+com\itmuch\cloud\study\fastdfs\FileUtil.class
+com\itmuch\cloud\study\controller\FileController.class
+com\itmuch\cloud\study\controller\Use2Controller.class
+com\itmuch\cloud\study\fastdfs\ApplicationConfig.class
+com\itmuch\cloud\study\fastdfs\HTTPUtils.class
+com\itmuch\cloud\study\entity\User.class
+com\itmuch\cloud\study\ProviderUserApplication.class
